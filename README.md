@@ -1,1 +1,3 @@
 # Javascript
+
+![Screenshot](sky.png)
