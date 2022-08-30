@@ -1,10 +1,10 @@
-# Javascript
+# JUEGO EN JAVASCRIPT-PHASER
 
 # Inicio Del Juego
-<div><img src="inicio.png"></div>
+<div><img src="Inicio.png"></div>
 
 # Obstaculos
-<div><img src="obstaculos.jpg"></div>
+<div><img src="Obstaculos.png"></div>
 
 # Fin Del Juego
-<div><img src="fin.png"></div>
+<div><img src="Fin.png"></div>
