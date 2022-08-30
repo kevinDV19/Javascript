@@ -1,3 +1,2 @@
 # Javascript
 
-![Screenshot](sky.png)
